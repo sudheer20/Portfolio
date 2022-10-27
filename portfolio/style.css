@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(250, 219, 219);
+    border: black solid;
+    margin: 100px;
+    
+    padding: 20px;
+
+}
+
+#contactlinks{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(250, 86, 86);
+
+}
+
+#link{
+    
+    float: left;
+    width: 33%;
+    
+}
+#link a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+#link :hover{
+    background-color: rgb(240, 47, 40);
+}
+
+
+h1 {
+    text-align: center;
+}
