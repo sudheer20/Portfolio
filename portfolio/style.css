@@ -16,10 +16,12 @@ body {
 
 }
 
-#link{
-    
+button{
+
+    background-color:rgb(252, 133, 129);
+    color: rgb(255, 0, 0);
     float: left;
-    width: 33%;
+    width: 33.33%;
     
 }
 #link a{
@@ -30,8 +32,9 @@ body {
     text-decoration: none;
     
 }
-#link :hover{
-    background-color: rgb(240, 47, 40);
+button:hover{
+    background-color: rgb(44, 8, 7);
+    color: rgb(252, 133, 129);
 }
 
 
