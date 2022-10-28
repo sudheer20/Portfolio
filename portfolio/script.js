@@ -6,6 +6,3 @@ function openlinkedin(){
     window.open('https://www.linkedin.com/in/sudheerdadala','_blank');
 }
 
-function openmail(){
-    window.location.href = 'mailto:sudheerdadala1997@gmail.com';
-}
