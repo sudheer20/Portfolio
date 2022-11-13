@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(250, 219, 219);
+    background-color: rgb(250, 227, 227);
     border: black solid;
     margin: 100px;
     
@@ -19,9 +19,12 @@ body {
 button{
 
     background-color:rgb(252, 133, 129);
-    color: rgb(255, 0, 0);
+    color: rgb(44, 8, 7);
     float: left;
-    width: 33.33%;
+    width: 50%;
+    height: 33px;
+    cursor: pointer;
+    transition-duration: 0.4s;
     
 }
 #link a{
@@ -40,4 +43,18 @@ button:hover{
 
 h1 {
     text-align: center;
+}
+
+#skills{
+
+    color:rgb(0, 0, 0);
+    /* background-image: url("bg1.jpg"); */
+    /* opacity: 0.7; */
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    /* background-color: rgb(188, 241, 224); */
+}
+#education{
+    /* background-color: rgb(255, 140, 175); */
 }
